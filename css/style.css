@@ -38,29 +38,44 @@ body {
 
 .title{
   font-size: 28px;
-  font-weight:bold;  
+  font-weight:bold;
+  text-transform: capitalize;
 }
 
 .title-primary{
  color: #fff;
 }
 
+.title-second{
+  color: #5f67d8
+}
+
 .description{
   font-size: 14px;
   font-weight: 300;
-  color: #fff;
-  line-height: 25px;
+ line-height: 25px;
 }
 
-.btn{
-  border-radius: 85px;
+.description-primary{
+  color: #fff;
+}
+
+.description-second{
+  color: #7f8c8d;
+}
+
+.btn {
+  border-radius: 15px;
   text-transform: uppercase;
   color: #fff;
   font-size: 10px;
-  margin: 10px;
   padding: 10px 50px;
   cursor: pointer;
   font-weight: bold;
+  width: 150px;
+  align-self: center;
+  border: none;
+  margin-top: 1rem;
 }
 
 .btn-primary{
@@ -70,6 +85,17 @@ border: 1px solid #fff;
 
 .btn-primary:hover {
   background-color: #fff;
+  color: #5f67d8;
+}
+
+.btn-second {
+  background-color: #5f67d8;
+  border: 1px solid #5f67d8;
+  transition: background-color .5s;
+}
+.btn-second:hover {
+  background-color: #fff;
+  border: 1px solid #5f67d8;
   color: #5f67d8;
 }
 
@@ -84,16 +110,41 @@ border: 1px solid #fff;
 }
 
 .second-column{
-  flex: 2 0 auto;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .list-social-media{
   display: flex;
+  list-style-type: none
+}
+
+.item-social-media{
+  border: 1px solid #bdc3c7;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.item-social-media a{
+  color: #95a5a6;
 }
 
 .form{
   display: flex;
   flex-direction: column;
+  width: 55%;
+}
+
+.form input{
+  height: 45px;
+  border: none;
+  background-color: #ecf0f1;
+  margin: 8px;
 }
 
 .second-content{
