@@ -194,4 +194,14 @@ border: 1px solid #fff;
 .second-content .second-column {
   order: 1;
 }
+
+.password {
+  color: #34495e;
+  font-size: 14px;
+  margin: 15px 0;
+  text-align: center;
+}
+.password::first-letter {
+  text-transform: capitalize;
+}
  
