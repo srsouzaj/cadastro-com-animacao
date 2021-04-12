@@ -15,13 +15,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #ecf0f1;
+  background-color: #e6e4e4;
 }
 
 .content{
   background-color: #fff;
   border-radius: 15px; 
-  width: 75%;
+  width: 65%;
   height: 60%;
   justify-content: space-between;
   align-items: center;
@@ -79,7 +79,7 @@ body {
   width: 150px;
   align-self: center;
   border: none;
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
 }
 
 .btn-primary{
@@ -162,14 +162,15 @@ transition: background-color .10s;
 .form{
   display: flex;
   flex-direction: column;
-  width: 48%;
+  width: 60%;
 }
 
 .form input{
-  height: 35px;
+  height: 30px;
+  width: 80%;
   border: none;
   background-color: #ecf0f1;
-  margin: 1px;
+  margin: 5px;
 }
 input:-webkit-autofill 
 {    
@@ -279,14 +280,12 @@ input:-webkit-autofill
   25% {
       left: -80px;
       opacity: 2;
-      /* z-index: 12; NÃO HÁ NECESSIDADE */
   }
 
   50% {
       left: -100px;
       opacity: .2;
-      /* z-index: 12; NÃO HÁ NECESSIDADE */
-  }
+ }
 
   to {
       left: -110px;
@@ -305,13 +304,10 @@ input:-webkit-autofill
 
   25% {
       left: 80px;
-      /* z-index: 12;  NÃO HÁ NECESSIDADE*/
   }
 
   50% {
       left: 100px;
-      /* z-index: 12; NÃO HÁ NECESSIDADE*/
-      /* background-color: yellow;  Exemplo que dei no vídeo*/
   }
 
   to {
@@ -376,8 +372,8 @@ input:-webkit-autofill
   }
 }
 
-/*VERSÃO MOBILE*/
-@media screen and (max-width: 1040px) {
+/*VERSÃO MOBILE - testando*/
+@media screen and (max-width: 700px) {
   .content {
       width: 100%;
       height: 100%;
@@ -402,7 +398,6 @@ input:-webkit-autofill
       top: 60%;
       left: 0;
       border-radius: 0;
-
   }
 
   .form {
@@ -421,13 +416,11 @@ input:-webkit-autofill
       25% {
           top: -80px;
           opacity: 0.5;
-          /* z-index: 12; NÃO HÁ NECESSIDADE */
       }
   
       50% {
           top: -100px;
           opacity: .25;
-          /* z-index: 12; NÃO HÁ NECESSIDADE */
       }
   
       to {
@@ -436,8 +429,7 @@ input:-webkit-autofill
           z-index: -1;
       }
   }
-  
-  
+    
   @keyframes deslocamentoDir {  
       from {
           top: 0;
@@ -446,14 +438,11 @@ input:-webkit-autofill
   
       25% {
           top: 80px;
-          /* z-index: 12;  NÃO HÁ NECESSIDADE*/
       }
   
       50% {
           top: 100px;
-          /* z-index: 12; NÃO HÁ NECESSIDADE*/
-          /* background-color: yellow;  Exemplo que dei no vídeo*/
-      }
+          }
   
       to {
           top: 110px;
@@ -516,7 +505,7 @@ input:-webkit-autofill
   } 
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 600px) {
   .form {
       width: 50%;
   }
@@ -524,6 +513,6 @@ input:-webkit-autofill
 
 @media screen and (max-width: 425px) {
   .form {
-      width: 100%;
+      width: 60%;
   }
 }
