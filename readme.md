@@ -7,9 +7,12 @@
 <br />
 
 <br />
-<a href="https://ibb.co/k8bgSqz"><img src="https://i.ibb.co/k8bgSqz/login-1.gif" alt="login-1" border="0"></a>
 
-<p align="justify"> Com este *tutorial* disponibilizado pelo Professor Guilherme Chinaglia, disponilizado em seu canal do [Youtube](https://www.youtube.com/watch?v=GtsNZtzZiec&list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A), foi desenvolvido uma tela de cadastro com transição de animação durante as telas de Login e criação de cadastro, sem a necessidade de reload da página. </p>
+<a href="https://ibb.co/k8bgSqz"><img src="https://i.ibb.co/Kq4jrVB/login-1.gif" alt="login-1" border="0"></a>
+
+[url=https://ibb.co/k8bgSqz][img]https://i.ibb.co/k8bgSqz/login-1.gif[/img][/url]
+
+<p> Com este *tutorial* disponibilizado pelo Professor Guilherme Chinaglia, disponilizado em seu canal do [Youtube](https://www.youtube.com/watch?v=GtsNZtzZiec&list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A), foi desenvolvido uma tela de cadastro com transição de animação durante as telas de Login e criação de cadastro, sem a necessidade de reload da página. </p>
 
 <br />
 
