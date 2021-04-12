@@ -39,8 +39,7 @@ $ cd cadastro-com-animacao
 <br />
 
 <br />
-<br />
-<br />
+
 
 <p align="center">Este projeto será aprimorado em breve. Clique em "star" para acompanhar.</p>
 <br />
