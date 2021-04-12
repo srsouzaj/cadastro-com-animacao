@@ -3,7 +3,6 @@
 ## Criação de tela de Cadastro Interativa (com animação) realizado através do Tutorial
 
 <br />
-<br />
 
 <p align="center"> <a href="https://ibb.co/k8bgSqz"><img src="https://i.ibb.co/Kq4jrVB/login-1.gif" alt="login-1" border="0"></a> </p>
 
@@ -37,9 +36,6 @@ $ cd cadastro-com-animacao
 ```
 
 <br />
-
-<br />
-
 
 <p align="center">Este projeto será aprimorado em breve. Clique em "star" para acompanhar.</p>
 <br />
