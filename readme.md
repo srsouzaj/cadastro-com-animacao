@@ -1,7 +1,4 @@
 # Criando de tela de Cadastro Interativa
-
-## Criação de tela de Cadastro Interativa (com animação) realizado através do Tutorial
-
 <br />
 <br />
 
