@@ -2,8 +2,6 @@
 
 ## Criação de tela de Cadastro Interativa (com animação) realizado através do Tutorial
 
-<p align="center">Este projeto será aprimorado em breve. Clique em "star" para acompanhar.</p>
-
 <br />
 <br />
 
@@ -41,5 +39,10 @@ $ cd cadastro-com-animacao
 <br />
 
 <br />
+<br />
+<br />
 
+<p align="center">Este projeto será aprimorado em breve. Clique em "star" para acompanhar.</p>
+<br />
+<br />
 ###### Made with ♥ by Jorge de Souza :wave: [Get in touch!](https://www.linkedin.com/in/jorgejrdj/)
