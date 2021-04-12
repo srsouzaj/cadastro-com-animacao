@@ -278,7 +278,7 @@ input:-webkit-autofill
 
   25% {
       left: -80px;
-      opacity: .5;
+      opacity: 2;
       /* z-index: 12; NÃO HÁ NECESSIDADE */
   }
 
@@ -420,13 +420,13 @@ input:-webkit-autofill
   
       25% {
           top: -80px;
-          opacity: .5;
+          opacity: 0.5;
           /* z-index: 12; NÃO HÁ NECESSIDADE */
       }
   
       50% {
           top: -100px;
-          opacity: .2;
+          opacity: .25;
           /* z-index: 12; NÃO HÁ NECESSIDADE */
       }
   
